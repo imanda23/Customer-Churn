@@ -87,4 +87,3 @@ if st.button("Prediksi Sekarang"):
 
 st.markdown("---")
 st.caption("Dikembangkan menggunakan Gradient Boosting + SMOTE Pipeline.")
-"
